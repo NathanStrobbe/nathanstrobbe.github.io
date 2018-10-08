@@ -1,0 +1,1038 @@
+[
+  {
+    "name": "PeiP1",
+    "year": "2015-2016",
+    "courses": [
+      {
+        "name": "Algèbre",
+        "topic": "mathematics",
+        "teacher": "N. Auxire",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Algèbre\\2014-2015-algebre-ds4.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\2015-16-DS3-algebre.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\9-1-espace-vectoriel-sans-chap9.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\9-10-groupe-ev-corrige-eleve.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chapitres-9-10-groupes-espace-vectoriel.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\DS1-Log-Ens-Appl-Rel.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\ex8-initialisation-recurrence-proprietes.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap1 poly.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap1.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap2 poly.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap2.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap3 poly.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap3 suite.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap3.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap4 poly.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap4 suite.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap4.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap5 poly.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap5.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap6 poly.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap6 suite.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\chap6.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\ds1 correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\ds1.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\ds2 correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\ds2.pdf",
+          ".\\assets\\archives\\PeiP1\\Algèbre\\petit ds.pdf"
+        ]
+      },
+      {
+        "name": "Analyse",
+        "topic": "mathematics",
+        "teacher": "B. Bourgeois",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Analyse\\cours eqdif.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2013-2014_DS6.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2014-2015_DS1.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2014-2015_DS2.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2014-2015_DS5.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2014-2015_DS6.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2015-2016_DS3.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2015-2016_DS4(1h).pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\Analyse_2015-2016_DS5.pdf",
+          ".\\assets\\archives\\PeiP1\\Analyse\\exos devlim.pdf"
+        ]
+      },
+      {
+        "name": "Circuit",
+        "topic": "electronics",
+        "teacher": "A. Vigouroux",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_Correction_DS.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DM1_2015-2016.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DM1_2015-2016_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS1_2015-2016.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS1_2015-2016_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS2_2012-2013.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS2_2012-2013_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS2_2013-2014.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS2_2014-2015.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS2_2014-2015_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS2_2015-2016_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS3_2012-2013.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS3_2012-2013_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS3_2013-2014.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS3_2013-2014_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS3_2015-2016.pdf",
+          ".\\assets\\archives\\PeiP1\\Circuit\\Circuit_DS3_2015-2016_Correction.pdf"
+        ]
+      },
+      {
+        "name": "Compléments Géo",
+        "topic": "mathematics",
+        "teacher": "J. Ribault",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Compléments Géo\\test-comp-geo-2014.pdf"
+        ]
+      },
+      {
+        "name": "Construction Méca",
+        "topic": "physics",
+        "teacher": "JD. Rami",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Construction Méca\\ConstrMeca_DS_2014-2015_Correction.pdf"
+        ]
+      },
+      {
+        "name": "EnvInfo1",
+        "topic": "IT",
+        "teacher": "S. Lavirotte",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\03-04 Fichiers Repertoires Unix.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\05 Gestion Avancee Fichiers Unix.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\06 Utilisateurs Unix.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\07 Intro Prog Shell.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\08-09 Redirections.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\10 Multimedia Texte.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\11 Multimedia Son.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\12 Multimedia Image.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\13 Reseaux.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\14 Reseau Internet et Protocoles.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\15 Internet et Securite.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo1\\EnvInfo1_QCM2_2014-2015.pdf"
+        ]
+      },
+      {
+        "name": "Meca",
+        "topic": "physics",
+        "teacher": "P. Vignolo",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Meca\\correction-DS-21-Janvier-2016.pdf"
+        ]
+      },
+      {
+        "name": "OMI",
+        "topic": "mathematics",
+        "teacher": "B. Bourgeois",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\OMI\\OMI_DS_2008-2009.pdf",
+          ".\\assets\\archives\\PeiP1\\OMI\\OMI_DS_2008-2009_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\OMI\\OMI_DS_2009-2010.pdf",
+          ".\\assets\\archives\\PeiP1\\OMI\\OMI_DS_2010-2011.pdf",
+          ".\\assets\\archives\\PeiP1\\OMI\\OMI_DS_2010-2011_Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\OMI\\OMI_DS_2014-2015.pdf"
+        ]
+      },
+      {
+        "name": "Optique",
+        "topic": "physics",
+        "teacher": "L. LabontÃ©",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Optique\\DS_optique_correction.pdf"
+        ]
+      },
+      {
+        "name": "Prog Impérative",
+        "topic": "IT",
+        "teacher": "H. Collavizza",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Prog Impérative\\Explications Rapides.pdf",
+          ".\\assets\\archives\\PeiP1\\Prog Impérative\\Rapport.pdf",
+          ".\\assets\\archives\\PeiP1\\Prog Impérative\\ProgImp_QCM1_2014-2015.pdf",
+          ".\\assets\\archives\\PeiP1\\Prog Impérative\\ProgImp_QCM1_2015-2016.pdf"
+        ]
+      },
+      {
+        "name": "TP Physique",
+        "topic": "physics",
+        "teacher": "P. Kuzhir",
+        "semester": "S1",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\TP Physique\\consignes_generales_examen-2015-16.pdf"
+        ]
+      },
+      {
+        "name": "Elec analog",
+        "topic": "electronics",
+        "teacher": "P. Masson",
+        "semester": "S2",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No1 CORRECTION.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No1.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No2 CORRECTION.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No2.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No3 CORRECTION.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No3.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No4 CORRECTION.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2013-2014 No4.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2014-2015 No2 CORRECTION.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS 2014-2015 No2.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec analog\\DS mini 2015-2016 NoD.pdf"
+        ]
+      },
+      {
+        "name": "Elec Num",
+        "topic": "electronics",
+        "teacher": "A. Vigouroux",
+        "semester": "S2",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Elec Num\\2014-15-DS EN No2 - Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\2014-15-DS EN No2.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\2014-15-DS EN No3 - Correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\2014-15-DS EN No3.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\2015-16-DS EN No1 - correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\2015-16-DS EN No2 - correction.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\Annexes_portes_logiques_PeiP1.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\DS.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\Annexes_portes_logiques_PeiP1.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\consignes_DS.pdf",
+          ".\\assets\\archives\\PeiP1\\Elec Num\\Consignes_TP.pdf"
+        ]
+      },
+      {
+        "name": "EnvInfo2",
+        "topic": "IT",
+        "teacher": "E. Gallesio",
+        "semester": "S2",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\EnvInfo2\\preservation.pdf",
+          ".\\assets\\archives\\PeiP1\\EnvInfo2\\QCM1.pdf"
+        ]
+      },
+      {
+        "name": "Hydro",
+        "topic": "physics",
+        "teacher": "P. Kuzhir",
+        "semester": "S2",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Hydro\\ChapitreI-II-2013-14.pdf",
+          ".\\assets\\archives\\PeiP1\\Hydro\\ChapitreIII-IV-2015-16.pdf",
+          ".\\assets\\archives\\PeiP1\\Hydro\\Hydro - Sujet contrôle.pdf"
+        ]
+      },
+      {
+        "name": "JeuxStrat",
+        "topic": "IT",
+        "teacher": "D. Lingrand",
+        "semester": "S2",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\coloriage.pdf",
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\J&S - Faux contrôle.pdf",
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\QCM1.pdf",
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\QCM2.pdf",
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\QCM3.pdf",
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\Jeux-Partisans-ISN.pdf",
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\Numérisé depuis un périphérique multifonctions Xerox001.pdf",
+          ".\\assets\\archives\\PeiP1\\JeuxStrat\\Revisions-JeuxChaudsFroids.pdf"
+        ]
+      },
+      {
+        "name": "Meca",
+        "topic": "physics",
+        "teacher": "JM. Chauveau",
+        "semester": "S2",
+        "files": [
+          ".\\assets\\archives\\PeiP1\\Meca\\QCM1.pdf",
+          ".\\assets\\archives\\PeiP1\\Meca\\QCM2.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PeiP2",
+    "year": "2016-2017",
+    "courses": [
+      {
+        "name": "Algèbre",
+        "topic": "mathematics",
+        "teacher": "N. Stolfi",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Algèbre\\chap3-Polynomes.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\chap4-elts-propres.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\2016-17-Algèbre3-DS1.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\feuille8.pdf"
+        ]
+      },
+      {
+        "name": "Analyse",
+        "topic": "mathematics",
+        "teacher": "J. Ribault",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Analyse\\test1-version1.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\test2-version1 (1).pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\test2-version1.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\test3-version1.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\test4-version1 (1).pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\test4-version1 (2).pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\test4-version1-correction.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\test4-version1.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\DSE-usuels.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\Exemple-DSE-Fct-rat.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\Exemples-fin chapitre-4.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\feuille2.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\feuille20.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\Nathan.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\QCM-10-fevrier.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\QCM-17-fevrier.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\rappels-trigo.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\series-appli-QCM-13-janvier.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\series-Fourier-prop-3.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\series-pres3.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\series-pres4.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\series-pres5-QCM.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse\\series-qcm-exo-seance2.pdf"
+        ]
+      },
+      {
+        "name": "Analyse-EV",
+        "topic": "mathematics",
+        "teacher": "RJ Bwemba",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseEV3.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS1-2012-.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS1-2013-.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS1-2014.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS1-2015.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS2-2012-.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS2-2013-.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS2-2014.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS2-2015.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS3-2013.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS3-2014.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS3-2015.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\DS3Z-2014.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\ElementsCorrectionDS1-PEIP2-1516.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seance10FtionsPlusVar-CM-Analyse-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seance11FtionsPlusVar-CM-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seance4CM-Analyse-Peip2-1516.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seances2et3AnalyseCM-PEIP2-1617 (1).pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seances2et3AnalyseCM-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seances4et5CM-Analyse-Peip2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seances6et7CM-Analyse-Peip2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\Seances8et9CM-Analyse-Peip2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD1-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD2-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD3-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD4-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD5-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD6-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD7-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\AnalyseTD8-PEIP2-1617.pdf",
+          ".\\assets\\archives\\PeiP2\\Analyse-EV\\TD5 (correction).pdf"
+        ]
+      },
+      {
+        "name": "Anglais",
+        "topic": "language",
+        "teacher": "S. Goodchild",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Anglais\\Comparatif et superlatif - TABLEAU.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\COMPARATIVE & SUPERLATIVE.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\COUNTABLE & UNCOUNTABLE NOUNS.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\FEW and LITTLE.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\IF and WHETHER.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\INDIRECT SPEECH.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\interrogatives rules.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\INTERROGATIVES.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\LE CONDITIONNEL.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\LE DISCOURS INDIRECT.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\Le passif.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\LES MODAUX.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\present perfect explanation.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\PRESENT PERFECT vs SIMPLE PAST.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\PRESENT PERFECT.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\PRETERIT SIMPLE ET PROGRESSIF.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\PROGRESSIVE PAST.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\SIMPLE PAST.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\SOME and ANY.pdf",
+          ".\\assets\\archives\\PeiP2\\Anglais\\The real explanation of crop circles.pdf"
+        ]
+      },
+      {
+        "name": "Arduino (Masson & Ferrero)",
+        "topic": "electronics",
+        "teacher": "P. Masson & F. Ferrero",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Arduino (Masson & Ferrero)\\Arduino Projection - MASSON V34.pdf",
+          ".\\assets\\archives\\PeiP2\\Arduino (Masson & Ferrero)\\arduino1 - FERRERO.pdf",
+          ".\\assets\\archives\\PeiP2\\Arduino (Masson & Ferrero)\\Présentation Cours Electronique analogique PeiP2.pdf",
+          ".\\assets\\archives\\PeiP2\\Arduino (Masson & Ferrero)\\TD electronique et Arduino 2016-2017.pdf"
+        ]
+      },
+      {
+        "name": "Elecmag",
+        "topic": "physics",
+        "teacher": "I. Aliferis",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Elecmag\\TD.ELECMAG.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\TD.ELECMAG2.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\TD.ELECMAG3.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\TD.ELECMAG4.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Activité ElecMag.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_exam_2016_10_18_sans_correction.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_exam_2017_03_21_avec_correction.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_exam_2017_03_21_sans_correction.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Orage(réduit).pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Orage.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Répartition Groupe 4C Elecmag.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\NoteCoursElectromag_2016-2017.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_calcul_notes.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_questions_TD_5_6.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S01_Rappels_force_et_champ_electrostatiques.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S02_Loi_de_Gauss_forme_integrale.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S03_Divergence_Loi_de_Gauss_forme_locale.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S04_Travail_et_potentiel.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S05_Potentiel_et_champ_electrique_Energie.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S06_Circulation_et_rotationnel_I.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S07_Circulation_et_rotationnel_II.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S08_Conducteurs_en_electrostatique_I.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S09_Conducteurs_en_electrostatique_II.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S10_Dielectriques_I.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S11_Dielectriques_II.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S13_Courants_electriques_I.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S14_Courants_electriques_II.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S15_loi_Biot-Savart.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S17_loi_ampere_nabla_laplacien.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S18_force_electromotrice.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S19_induction_electromagnetique.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S20_inductance_energie_magnetique.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S21_materiaux_magnetiques.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_S22_du_courant_de_deplacement_aux_ondes_electromagnetiques.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_syllabus(1).pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_syllabus.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_td_01.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_td_02.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_td_03.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_Peip2_Electromagnetisme_td_04.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_Peip2_Electromagnetisme_td_05.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_Peip2_Electromagnetisme_td_06.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_Peip2_Electromagnetisme_td_07.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_Peip2_Electromagnetisme_td_09.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_td_10.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_Electromagnetisme_td_11.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_liste_groupes_de_travail (1).pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\PNS_PeiP2_liste_groupes_de_travail.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Elecmag_QCM1_2016-2017.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Elecmag_QCM2_2016-2017.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Elecmag_QCM3_2016-2017.pdf",
+          ".\\assets\\archives\\PeiP2\\Elecmag\\Elecmag_QCM4_2016-2017.pdf"
+        ]
+      },
+      {
+        "name": "IAW",
+        "topic": "it",
+        "teacher": "D. Lopez",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\IAW\\cours4.pdf",
+          ".\\assets\\archives\\PeiP2\\IAW\\exc-1.pdf",
+          ".\\assets\\archives\\PeiP2\\IAW\\exc-2.pdf",
+          ".\\assets\\archives\\PeiP2\\IAW\\rappelle-html-css.pdf",
+          ".\\assets\\archives\\PeiP2\\IAW\\td1.pdf",
+          ".\\assets\\archives\\PeiP2\\IAW\\cours2.pdf",
+          ".\\assets\\archives\\PeiP2\\IAW\\cours3.pdf",
+          ".\\assets\\archives\\PeiP2\\IAW\\td5.pdf"
+        ]
+      },
+      {
+        "name": "Info",
+        "topic": "it",
+        "teacher": "E. Cornillon",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Info\\Exceptions et Fichiers.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\memo.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\Documentation.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\Documentation.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\projet-Java-S3-16-17.pdf"
+        ]
+      },
+      {
+        "name": "Thermo",
+        "topic": "physics",
+        "teacher": "P. Kuzhir",
+        "semester": "S3",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Thermo\\Centrales.pdf",
+          ".\\assets\\archives\\PeiP2\\Thermo\\Compresseur.pdf",
+          ".\\assets\\archives\\PeiP2\\Thermo\\Control-III-corrections.pdf",
+          ".\\assets\\archives\\PeiP2\\Thermo\\controle-I-corrigee.pdf",
+          ".\\assets\\archives\\PeiP2\\Thermo\\Formules-controle-III.pdf",
+          ".\\assets\\archives\\PeiP2\\Thermo\\Matériaux-2017.pdf",
+          ".\\assets\\archives\\PeiP2\\Thermo\\Moteurs-pdf.pdf",
+          ".\\assets\\archives\\PeiP2\\Thermo\\Transition-de-phase.pdf"
+        ]
+      },
+      {
+        "name": "ADW",
+        "topic": "it",
+        "teacher": "E. Cornillon",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\ADW\\Interactivité.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\javascript1.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\javascript2.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\persistance.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\php.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\revision.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\avt_FALCONE_PELTIER_STROBBE.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\final_falcone_strobbe_peltier.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\Propale.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\RapportAvancement.pdf.pdf",
+          ".\\assets\\archives\\PeiP2\\ADW\\RapportFinal.pdf.pdf"
+        ]
+      },
+      {
+        "name": "Algèbre",
+        "topic": "mathematics",
+        "teacher": "N. Auxire",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Algèbre\\1-presentation.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\2-QCM-projection-distance.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\5-presentation-isometries-vectorielles.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\algebre-ex-11-p24.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\algèbre-corrigé-ex2-8.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\corrigé-exercice-4-p56.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\2013-14-alg-DS3.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\2014-15-alg-DS3.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\2015-16-alg-DS3.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\2016-17-Algèbre4-DS1-corrigé.pdf",
+          ".\\assets\\archives\\PeiP2\\Algèbre\\Méthode-Regression-Exemple.pdf"
+        ]
+      },
+      {
+        "name": "Elec analog (Jacquemod)",
+        "topic": "electronics",
+        "teacher": "G. Jacquemod",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Elec analog (Jacquemod)\\DOC-20170307-WA0031.pdf"
+        ]
+      },
+      {
+        "name": "Elec num (Muller)",
+        "topic": "electronics",
+        "teacher": "F. Muller",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Elec num (Muller)\\PEIP2-Cours-ch1-etu.pdf",
+          ".\\assets\\archives\\PeiP2\\Elec num (Muller)\\PEIP2-Cours-ch2-etu.pdf",
+          ".\\assets\\archives\\PeiP2\\Elec num (Muller)\\PEIP2-Cours-ch3-etu.pdf",
+          ".\\assets\\archives\\PeiP2\\Elec num (Muller)\\PEIP2-DocumentationAnalyseurEtCircuits.pdf",
+          ".\\assets\\archives\\PeiP2\\Elec num (Muller)\\PeiP2-ElecNum-TD-Arduino.pdf",
+          ".\\assets\\archives\\PeiP2\\Elec num (Muller)\\TD.pdf",
+          ".\\assets\\archives\\PeiP2\\Elec num (Muller)\\TDs.pdf"
+        ]
+      },
+      {
+        "name": "Info",
+        "topic": "it",
+        "teacher": "V. Granet",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Info\\ds2-2013sujet.pdf.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\ds2correction-2013.pdf.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\ds2_sujet et correction(2012).pdf.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\Documentation.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\rapport.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\projet-Java-S4-16-17.pdf",
+          ".\\assets\\archives\\PeiP2\\Info\\sol.pdf"
+        ]
+      },
+      {
+        "name": "Optique Ondulatoire",
+        "topic": "physics",
+        "teacher": "P. Vignolo",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Optique Ondulatoire\\devoir_11_06.pdf",
+          ".\\assets\\archives\\PeiP2\\Optique Ondulatoire\\devoir_2013 (2).pdf",
+          ".\\assets\\archives\\PeiP2\\Optique Ondulatoire\\devoir_29_05.pdf"
+        ]
+      },
+      {
+        "name": "Proba",
+        "topic": "mathematics",
+        "teacher": "N. Auxire",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Proba\\2012-13-proba-DS1.pdf",
+          ".\\assets\\archives\\PeiP2\\Proba\\2013-14-proba-DS1.pdf",
+          ".\\assets\\archives\\PeiP2\\Proba\\2014-15-proba-DS1.pdf",
+          ".\\assets\\archives\\PeiP2\\Proba\\2016-17-proba-DS1.pdf",
+          ".\\assets\\archives\\PeiP2\\Proba\\corrigé-exercice-9p.6.pdf",
+          ".\\assets\\archives\\PeiP2\\Proba\\p5-preuves-principes-denombrement.pdf",
+          ".\\assets\\archives\\PeiP2\\Proba\\presentation0-denombrement.pdf"
+        ]
+      },
+      {
+        "name": "Signaux",
+        "topic": "electronics",
+        "teacher": "S. Icart",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\Signaux\\exam_avril14.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\exam_avril15.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\exam_mars13.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\Figure n°1.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\Figure n°2.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\Figure n°3.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\Figure n°4.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\Scilab_beginners.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\tp2.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\tp3.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\TP3_scan_bbelaouc_2017-04-25-16-09-26.pdf",
+          ".\\assets\\archives\\PeiP2\\Signaux\\TP4_scan_bbelaouc_2017-05-03-11-13-48.pdf"
+        ]
+      },
+      {
+        "name": "TP physique",
+        "topic": "physics",
+        "teacher": "P. Kuzhir",
+        "semester": "S4",
+        "files": [
+          ".\\assets\\archives\\PeiP2\\TP physique\\TP1_falcone_elidrissi.pdf",
+          ".\\assets\\archives\\PeiP2\\TP physique\\TP2_guillot_henault.pdf",
+          ".\\assets\\archives\\PeiP2\\TP physique\\TP3_segura_vigneron.pdf",
+          ".\\assets\\archives\\PeiP2\\TP physique\\TP4_dandre_honnoraty.pdf",
+          ".\\assets\\archives\\PeiP2\\TP physique\\TP5_bouet_walter.pdf",
+          ".\\assets\\archives\\PeiP2\\TP physique\\TP6_strobbe_sciarra.pdf",
+          ".\\assets\\archives\\PeiP2\\TP physique\\incertitude_oral.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SI3",
+    "year": "2017-2018",
+    "courses": [
+      {
+        "name": "Anglais",
+        "topic": "language",
+        "teacher": "C. Schall",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Anglais\\Booklet S5.pdf"
+        ]
+      },
+      {
+        "name": "Architecture et Réseaux",
+        "topic": "IT",
+        "teacher": "D. Lopez & B. Miramond",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Archi_CM1_Introduction.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Archi_CM2_CircuitsLogiques.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Archi_CM2_Unite_Arithmetique_et_Logique.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Archi_CM3_Bascule_et_Banc_de_registres.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Archi_CM5_Controleur.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Archi_CM6_ASSEMBLEUR.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Archi_CM7_PerformancesDesProcesseurs.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\Projet_PARM_SI3_2017.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\TD_Intro_Logisim_2017.pdf",
+          ".\\assets\\archives\\SI3\\Architecture et Réseaux\\lopez.pdf"
+        ]
+      },
+      {
+        "name": "Base de Données Relationnel",
+        "topic": "IT",
+        "teacher": "M. Rueher & C. Peyrat",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\COURS-DE-BD-SQL-REDUIT.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\CoursBD1.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\TD1_contraintes.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\TD1_contraintes_c.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\TD2_algebre.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\TD2_algebre_c.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\td3_corrige.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\tp1.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\tp1_correction.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\TP1_CORRECTION_ALEXIS.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\tp2_correction.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\TP2_CORRIGE.pdf",
+          ".\\assets\\archives\\SI3\\Base de Données Relationnel\\tp4_correction.pdf"
+        ]
+      },
+      {
+        "name": "Connaissance et Entreprise",
+        "topic": "language",
+        "teacher": "N. Munir",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Connaissance et Entreprise\\1-Introduction au management de la qualité.pdf",
+          ".\\assets\\archives\\SI3\\Connaissance et Entreprise\\2-Système de management de la qualité 1.pdf",
+          ".\\assets\\archives\\SI3\\Connaissance et Entreprise\\3- Système de management de la qualité 2.pdf",
+          ".\\assets\\archives\\SI3\\Connaissance et Entreprise\\4-Les outils qualité.pdf",
+          ".\\assets\\archives\\SI3\\Connaissance et Entreprise\\5-Démarche qualité dans l'entreprise.pdf",
+          ".\\assets\\archives\\SI3\\Connaissance et Entreprise\\Exemple de l'application de la norme 26000.pdf",
+          ".\\assets\\archives\\SI3\\Connaissance et Entreprise\\Introduction_a_ISO_26000_.pdf"
+        ]
+      },
+      {
+        "name": "Informatique Théorique",
+        "topic": "IT",
+        "teacher": "M. Rueher & C. Peyrat",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\1_Intro.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\2_Syntaxe.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\3_Semantique.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\4_Preuves.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\5_QuineMacCluskey.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\6_ReprésentationDesNombresV2.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille0_aucunelogique.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille0_aucunelogique_c.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille1_syntaxe.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille1_syntaxe_c.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille2-bis_ITSimplification.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille2_semantique.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille2_semantique_c.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille3_preuves_prop.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille3_preuves_prop_c.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille4_preuve_pred.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\feuille4_preuve_pred_c.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\IT52016.pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\ITSimplification (3).pdf",
+          ".\\assets\\archives\\SI3\\Informatique Théorique\\QMC.pdf"
+        ]
+      },
+      {
+        "name": "Programmation Orienté Objet",
+        "topic": "IT",
+        "teacher": "P. Sander",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter01.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter02.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter03.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter04.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter05.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter06.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter07.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter08.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter10.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter11.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter12.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter14.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Chapter16.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\corrected-2015-1 (0).pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\corrected-2015-1 (1).pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\corrected-2016-1 (1).pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\corrected-2016-1 (2).pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\corrected-2016-2.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\corrected-2017-1.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\corrected-2017-2.pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\Fiche de revision - JAVA .pdf",
+          ".\\assets\\archives\\SI3\\Programmation Orienté Objet\\future_java.pdf"
+        ]
+      },
+      {
+        "name": "Programmation procédurale",
+        "topic": "IT",
+        "teacher": "E. Gallesio",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\2015-09-22-corrected.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\2015-09-29-corrected.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\2015-10-06-corrected.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\2015-11-10-corrected.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\2015-12-08-corrected.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\2016-09-27-corrected.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\2016-10-11-corrected.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours10_hashtable.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours1_introduction.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours2_makefile.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours3_var_tableaux_string.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours4-1_expression_operateur.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours4-2_enonce.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours5_fonction_variable.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours6_pointeur.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours7_preprocesseur.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours8_entree_sortie_fichier.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\cours9_structure_multifichiers.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\corrected-1.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\corrected-2.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\td1.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\td2.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\td3.pdf",
+          ".\\assets\\archives\\SI3\\Programmation procédurale\\td4.pdf"
+        ]
+      },
+      {
+        "name": "Projet Semestre 5",
+        "topic": "IT",
+        "teacher": "P. Collet & S. Mosser",
+        "semester": "S5",
+        "files": [
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\00_introduction1718c.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\01_lifecycle_requirements1718c.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\02_UnitTesting-Junit1718.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\03_Kata-Junit1718.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\04_Atlas-1718.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\05_RenduKata-1718.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\06_DebriefKata-1718.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\07-Maven-1718.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\3A_PS5_versioning.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 5\\PS5-kickoff-2017c.pdf"
+        ]
+      },
+      {
+        "name": "Anglais",
+        "topic": "language",
+        "teacher": "J. Lorello",
+        "semester": "S6",
+        "files": [
+          ".\\assets\\archives\\SI3\\Anglais\\French English Bilingual Visual Dictionary.pdf",
+          ".\\assets\\archives\\SI3\\Anglais\\S6 Anglais General 2017.pdf"
+        ]
+      },
+      {
+        "name": "ASD",
+        "topic": "IT",
+        "teacher": "M. Gaetano & C. Papazian",
+        "semester": "S6",
+        "files": [
+          ".\\assets\\archives\\SI3\\ASD\\ASD_CC1.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\ASD_CC1_correction.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\ASD_CC2.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\ASD_CC2_correction.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\00-presentation.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\01-proof_by_induction.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\02-math_and_algorithm.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\03-asymptotic_analysis.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\04-adt_stack_queue.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\05-dictionary_binary_tree.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\06-binary_search_tree.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\07-avl_tree.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\08-priority_queue.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\09-binary_heaps.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\10-comparison_sorting.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\11-graphs.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\12-topological_sort&graph_traversal.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\13-minimum_spanning_trees.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\14-disjoint_sets&union_find.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\15-shortest_paths.pdf",
+          ".\\assets\\archives\\SI3\\ASD\\textbook.pdf"
+        ]
+      },
+      {
+        "name": "IHM",
+        "topic": "IT",
+        "teacher": "M. Winckler & AM Dery-Pinna",
+        "semester": "S6",
+        "files": [
+          ".\\assets\\archives\\SI3\\IHM\\Android-TDIntro.pdf",
+          ".\\assets\\archives\\SI3\\IHM\\TDdintro.pdf",
+          ".\\assets\\archives\\SI3\\IHM\\SI3-Interaction Homme-Machine-cours 1 - intro.pdf"
+        ]
+      },
+      {
+        "name": "ProgSys",
+        "topic": "IT",
+        "teacher": "S. Lavirotte",
+        "semester": "S6",
+        "files": [
+          ".\\assets\\archives\\SI3\\ProgSys\\01-Prod_et_Exec_Prog.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\02a-Intro_OS.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\02b-Win32_DLL.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\03-Processus.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\04a-Processus_Threads.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\04b-Win32_Processus_Threads.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\05a-Gestion_Entree_Sortie.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\05b-Win32-Gestion_Entree_Sortie.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\06a-Processus_Redirections.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\06b-Win32_Tubes.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\07a-Signaux.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\07b-Signaux-Win32.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\08-Memoire.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\09-JNI.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\Sujet-Eval.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\Sujet-QCM-correction-partielle.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\Sujet-QCM-formulaire 2018-06-04 22_34_08.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\Sujet-QCM-formulaire-correction-partielle.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\Sujet-QCM-formulaire.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\Sujet-QCM.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\01-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\01.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\02-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\02.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\03-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\03.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\04-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\04.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\05-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\05.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\06-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\06.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\07-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\07.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\progsys-2016-1-corrected.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\progsys-2016-1.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\01-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\02a-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\02b-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\03-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\04-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\05-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\06-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\07-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\08-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\09-TD.pdf",
+          ".\\assets\\archives\\SI3\\ProgSys\\10-TD.pdf"
+        ]
+      },
+      {
+        "name": "Projet Semestre 6",
+        "topic": "IT",
+        "teacher": "M. Winckler",
+        "semester": "S6",
+        "files": [
+          ".\\assets\\archives\\SI3\\Projet Semestre 6\\SI3-projet S6-sceance 1.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 6\\SI3-projet S6-sceance 2.pdf",
+          ".\\assets\\archives\\SI3\\Projet Semestre 6\\SI3-Projet Semestre 6-SUJET 2017-2018.pdf"
+        ]
+      },
+      {
+        "name": "QGL",
+        "topic": "IT",
+        "teacher": "S. Mosser",
+        "semester": "S6",
+        "files": [
+          ".\\assets\\archives\\SI3\\QGL\\Contract.pdf",
+          ".\\assets\\archives\\SI3\\QGL\\corrected-QGL-2017-1.pdf",
+          ".\\assets\\archives\\SI3\\QGL\\corrected-QGL-2017-2.pdf",
+          ".\\assets\\archives\\SI3\\QGL\\Soutenance de passation - QGL 2018.pdf"
+        ]
+      },
+      {
+        "name": "SSII",
+        "topic": "IT",
+        "teacher": "D. Lingrand",
+        "semester": "S6",
+        "files": [
+          ".\\assets\\archives\\SI3\\SSII\\01-intro.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\02-fourier.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\03-filtres.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\04-compression.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\05-recosons.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\06-introImages.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\07-echantTransfos2D.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\08-contours.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\09-filtres.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\10-compression.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\11-recoImages.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\12-logisticRegression.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\13-morphomath.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2016-1.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2016-2.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2016-3.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2016-4.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2017-1.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2017-2.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2017-3.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2017-4.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\corrected-2017-5.pdf",
+          ".\\assets\\archives\\SI3\\SSII\\no-corrected-2016-4.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SI4",
+    "year": "2018-present",
+    "courses": [
+      {
+        "name": "TDDC17 - Artificial Intelligence",
+        "topic": "IT",
+        "teacher": "Patrick Doherty",
+        "semester": "S7",
+        "files": [
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\Lab1 - Report.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\Lab2 - Report.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\Lab3 - Report.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo1.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo10.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo11_2sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo12_ml_2sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo13_ml_2sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo1_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo2.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo2_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo3.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo3_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo4.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo4_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo5.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo5_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo6.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo6_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo7.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo7_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo8.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo8_4sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo9_partial.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\article-Newell-Simon-cacm-76.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\article-turing.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\book-algorithms.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\book.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\book_(1._Introduction).pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\book_(3._Solving_Problems_by_Searching).pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\book_(4._Beyond_Classical_Search).pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\book_(5.1-5.3_Adversial_Search).pdf"
+        ]
+      },
+      {
+        "name": "TDDD38 - Advanced Programming in C++",
+        "topic": "IT",
+        "teacher": "Christoffer Holm",
+        "semester": "S7",
+        "files": [
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\0-course-intro.pdf",
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\1-basic-cpp.pdf",
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\2-classes.pdf",
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\3-inheritance.pdf",
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\4-templates_intro.pdf"
+        ]
+      },
+      {
+        "name": "THVS08 - Swedish",
+        "topic": "language",
+        "teacher": "Johanna",
+        "semester": "S7",
+        "files": [
+          ".\\assets\\archives\\SI4\\THVS08 - Swedish\\Rivstart_A1+A2_Textbok.pdf",
+          ".\\assets\\archives\\SI4\\THVS08 - Swedish\\Rivstart_A1+A2_Övningsbok.pdf"
+        ]
+      }
+    ]
+  }
+]
