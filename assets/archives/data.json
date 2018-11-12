@@ -1018,32 +1018,55 @@
     "year": "2018-present",
     "courses": [
       {
+        "name": "TDDB44 - Compiler Construction",
+        "topic": "IT",
+        "teacher": "None",
+        "semester": "S7",
+        "files": [
+          ".\\assets\\archives\\SI4\\TDDB44 - Compiler Construction\\01-Introduction.pdf",
+          ".\\assets\\archives\\SI4\\TDDB44 - Compiler Construction\\01-Organization.pdf",
+          ".\\assets\\archives\\SI4\\TDDB44 - Compiler Construction\\02-FormalLanguagesPart1.pdf",
+          ".\\assets\\archives\\SI4\\TDDB44 - Compiler Construction\\03-FormalLanguagesPart2-Grammars.pdf",
+          ".\\assets\\archives\\SI4\\TDDB44 - Compiler Construction\\book - Compilers, Principles, Techniques and Tools.pdf",
+          ".\\assets\\archives\\SI4\\TDDB44 - Compiler Construction\\TDDB44Seminar1.pdf"
+        ]
+      },
+      {
         "name": "TDDC17 - Artificial Intelligence",
         "topic": "IT",
         "teacher": "Patrick Doherty",
         "semester": "S7",
         "files": [
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\Answer Set Programming.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\exam-questions.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\Summary_of_AI_book.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\tenta_2016_08_22.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\tenta_2017_10_24.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\tenta_2017_1_4.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo1.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo10.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo11_2sl.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo11.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo12.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo13.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo2.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo3.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo4.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo5.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo6.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo7.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo8.pdf",
+          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo11_ml_2sl.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo12_ml_2sl.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo13_ml_2sl.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo14_rob_2sl.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo15_rob_2sl.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo1_4sl.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo2.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo2_4sl.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo3.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo3_4sl.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo4.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo4_4sl.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo5.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo5_4sl.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo6.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo6_4sl.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo7.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo7_4sl.pdf",
-          ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo8.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo8_4sl.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\TDDC17_Fo9_partial.pdf",
           ".\\assets\\archives\\SI4\\TDDC17 - Artificial Intelligence\\article-Newell-Simon-cacm-76.pdf",
@@ -1066,13 +1089,27 @@
           ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\1-basic-cpp.pdf",
           ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\2-classes.pdf",
           ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\3-inheritance.pdf",
-          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\4-templates_intro.pdf"
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\4-templates_intro.pdf",
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\5-templates_II.pdf",
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\6-templates_III.pdf",
+          ".\\assets\\archives\\SI4\\TDDD38 - Advanced Programming in C++\\7-stl_I.pdf"
+        ]
+      },
+      {
+        "name": "TDTS10 - Computer Architecture",
+        "topic": "IT",
+        "teacher": "None",
+        "semester": "S7",
+        "files": [
+          ".\\assets\\archives\\SI4\\TDTS10 - Computer Architecture\\book - Computer Organisation and Architecture 8e by William Stallings.pdf",
+          ".\\assets\\archives\\SI4\\TDTS10 - Computer Architecture\\lec1.pdf",
+          ".\\assets\\archives\\SI4\\TDTS10 - Computer Architecture\\lec2.pdf"
         ]
       },
       {
         "name": "THVS08 - Swedish",
         "topic": "language",
-        "teacher": "Johanna",
+        "teacher": "Johanna LagerlÃ¶f",
         "semester": "S7",
         "files": [
           ".\\assets\\archives\\SI4\\THVS08 - Swedish\\Rivstart_A1+A2_Textbok.pdf",
